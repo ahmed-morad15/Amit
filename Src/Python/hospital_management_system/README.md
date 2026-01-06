@@ -14,7 +14,7 @@ A **professional, modular, and extensible Hospital Management System** built wit
 * Scalable and future-ready design
 
 ---
-
+---
 ## 🎯 Dual Interface Architecture
 
 * ### Console Interface
@@ -29,7 +29,7 @@ A modern, user-friendly dashboard built with **Streamlit**, offering:
 * Interactive forms and workflows
 * Sidebar-based navigation
 * Professional UI suitable for demos and presentations
-
+---
 📸 **Dashboard Preview**
 
 ![Hospital Management System Dashboard](images/hospital_1.jpg)
