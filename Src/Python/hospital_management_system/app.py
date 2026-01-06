@@ -20,8 +20,6 @@ from models.nurse import Nurse
 from models.admin_staff import AdminStaff
 from models.doctor import Doctor
 
-st.set_page_config(page_title="Hospital Management System")
-
 # ============================================================================
 # Application Setup
 # ============================================================================
