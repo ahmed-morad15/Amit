@@ -8,6 +8,7 @@ import os
 import uuid
 import plotly.graph_objects as go
 import plotly.express as px
+st.set_page_config(page_title="Hospital Management System")
 
 # Add current path to Python
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -19,8 +20,6 @@ from models.staff import Staff
 from models.nurse import Nurse
 from models.admin_staff import AdminStaff
 from models.doctor import Doctor
-
-st.set_page_config(page_title="Hospital Management System")
 
 # ============================================================================
 # Application Setup
