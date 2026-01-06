@@ -2,7 +2,7 @@
 
 A **professional, modular, and extensible Hospital Management System** built with **Python** following solid **Object-Oriented Programming (OOP)** principles. The project provides both a **Console-Based Interface** and a **modern Streamlit Web Dashboard**, making it suitable for academic projects, demonstrations, and real-world system design practice.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hospitals-management-system.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hospitals-management-system.streamlit.app/)
 
 ---
 
