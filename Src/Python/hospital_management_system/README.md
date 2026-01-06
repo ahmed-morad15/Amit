@@ -17,11 +17,11 @@ A **professional, modular, and extensible Hospital Management System** built wit
 
 ## 🎯 Dual Interface Architecture
 
-### 📟 Console Interface
+### Console Interface
 
 A classic command-line interface that allows full system control via structured menus. Ideal for learning OOP design, testing logic, and running the system in low-resource environments.
 
-### 🌐 Streamlit Web Interface
+### Streamlit Web Interface
 
 A modern, user-friendly dashboard built with **Streamlit**, offering:
 
