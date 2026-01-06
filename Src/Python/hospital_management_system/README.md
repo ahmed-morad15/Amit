@@ -15,7 +15,7 @@ A **professional, modular, and extensible Hospital Management System** built wit
 
 ---
 
-## 🎯 Dual Interface Architecture
+## 📋 Dual Interface Architecture
 
 ### 🖥️ Console Interface
 
