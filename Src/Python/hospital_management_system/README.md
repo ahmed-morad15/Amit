@@ -10,7 +10,7 @@ The original command-line interface providing direct access to all system functi
 ### 🌐 Streamlit Web GUI (New)
 Modern web-based interface built with Streamlit offering enhanced user experience with visual dashboards, charts, and interactive components.
 
-![Hospital Management System Dashboard](hospital_1.jpg)
+![Hospital Management System Dashboard](images/hospital_1.jpg)
 
 
 ## 🏥 System Overview
