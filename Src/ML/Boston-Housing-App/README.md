@@ -60,7 +60,7 @@ Ensuring both performance and stability.
 
 
 ```markdown
-![Desktop GUI](images/Tkinter-GUI.jpg)
+![Desktop GUI](images/Tkinter-GUI.png)
 ```
 
 ---
@@ -77,7 +77,7 @@ Ensuring both performance and stability.
 ###  Streamlit GUI Screenshot
 
 ```markdown
-![Streamlit GUI](images/Streamlit-GUI.jpg )
+![Streamlit GUI](images/Streamlit-GUI.png )
 ```
 
 ---
