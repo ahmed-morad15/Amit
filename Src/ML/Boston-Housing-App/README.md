@@ -73,7 +73,7 @@ Ensuring both performance and stability.
 
 ###  Streamlit GUI Screenshot
 
-![Streamlit GUI](images/Streamlit-GUI )
+![Streamlit GUI](images/Streamlit-GUI.png)
 
 ---
 
