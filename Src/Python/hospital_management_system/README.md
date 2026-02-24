@@ -6,7 +6,7 @@ A **professional, modular, and extensible Hospital Management System** built wit
 
 ---
 
-## ✨ Key Highlights
+##  Key Highlights
 
 * Dual Interface: **Console + Web GUI**
 * Clean OOP architecture with clear separation of concerns
@@ -17,13 +17,13 @@ A **professional, modular, and extensible Hospital Management System** built wit
 
 ---
 
-## 📋 Dual Interface Architecture
+##  Dual Interface Architecture
 
-### 🖥️ Console Interface
+###  Console Interface
 
 A classic command-line interface that allows full system control via structured menus. Ideal for learning OOP design, testing logic, and running the system in low-resource environments.
 
-### 🌐 Streamlit Web Interface
+###  Streamlit Web Interface
 
 A modern, user-friendly dashboard built with **Streamlit**, offering:
 
@@ -32,13 +32,13 @@ A modern, user-friendly dashboard built with **Streamlit**, offering:
 * Sidebar-based navigation
 * Professional UI suitable for demos and presentations
 
-📸 **Dashboard Preview**
+ **Dashboard Preview**
 
 ![Hospital Management System Dashboard](images/hospital_1.jpg)
 
 ---
 
-## 🏥 System Overview
+##  System Overview
 
 The Hospital Management System handles core hospital operations, including:
 
@@ -52,7 +52,7 @@ The system supports **multiple hospitals**, each operating independently under a
 
 ---
 
-## 🧩 UML Design
+##  UML Design
 
 The system is designed using UML-driven development to ensure clarity, scalability, and maintainability.
 
@@ -60,30 +60,30 @@ The system is designed using UML-driven development to ensure clarity, scalabili
 
 ---
 
-## 🚀 Core Features
+##  Core Features
 
-### 🏛️ Hospital Management
+###  Hospital Management
 
 * Create and manage multiple hospitals
 * Switch seamlessly between hospital contexts
 * View hospital-wide statistics and summaries
 * Track departments, patients, and staff
 
-### 🏥 Department Management
+###  Department Management
 
 * Create and remove medical departments
 * Assign patients and staff to departments
 * Monitor department occupancy and activity
 * Department-specific views and operations
 
-### 👨‍⚕️ Staff Management
+###  Staff Management
 
 * **Doctors**: specialization, license number, patient capacity
 * **Nurses**: experience level, ward assignment
 * **Admin Staff**: access levels and administrative control
 * **General Staff**: basic operational roles
 
-### 👥 Patient Management
+###  Patient Management
 
 * Register new patients
 * Admit and discharge workflows
@@ -91,7 +91,7 @@ The system is designed using UML-driven development to ensure clarity, scalabili
 * Medical record storage and viewing
 * Assign patients to doctors
 
-### 📊 Operations & Reporting
+###  Operations & Reporting
 
 * Prescription handling
 * Surgery scheduling
@@ -101,7 +101,7 @@ The system is designed using UML-driven development to ensure clarity, scalabili
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 hospital_management_system/
@@ -127,7 +127,7 @@ hospital_management_system/
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 
@@ -163,7 +163,7 @@ streamlit run app.py
 
 ---
 
-## 🧬 Class Architecture
+##  Class Architecture
 
 ### Inheritance Hierarchy
 
@@ -187,7 +187,7 @@ Person
 
 ---
 
-## 💡 Design Principles
+##  Design Principles
 
 * Object-Oriented Programming (OOP)
 * Single Responsibility Principle (SRP)
@@ -196,7 +196,7 @@ Person
 
 ---
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 
 ### Phase 2 – Persistence & Automation
 
@@ -221,7 +221,7 @@ Person
 
 ---
 
-## 🏆 Credits & Metadata
+##  Credits & Metadata
 
 * **Developer**: Ahmed Morad
 * **Version**: 1.0.0
@@ -230,7 +230,7 @@ Person
 
 ---
 
-## 🔗 References & Resources
+##  References & Resources
 
 * [Python Official Documentation](https://docs.python.org/3/)
 * [OOP Concepts in Python](https://realpython.com/python3-object-oriented-programming/)
