@@ -1,4 +1,3 @@
-
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -205,7 +204,6 @@ for bars in [bar1, bar2, bar3]:
 
 plt.tight_layout()
 plt.show()
-
 
 test_results_df = pd.DataFrame({
     'Model': ['Linear Regression', 'Decision Tree', 'Random Forest'],
