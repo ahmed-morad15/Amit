@@ -157,7 +157,7 @@ streamlit run Streamlit-GUI.py
 
 #  Author
 
-Ahmed Morad
+**Ahmed Morad**<br>
 Machine Learning Engineer | AI & Data Science
 
 ---
