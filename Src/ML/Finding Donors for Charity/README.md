@@ -219,7 +219,7 @@ By comparing multiple models and applying hyperparameter tuning, the final model
 
 # Author
 
-Ahmed Morad
+**Ahmed Morad**<br>
 Machine Learning Engineer
 
 ---
