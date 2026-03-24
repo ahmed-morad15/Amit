@@ -162,7 +162,7 @@ Three supervised learning models were trained and evaluated on the test dataset:
 
 Below is a snapshot of the model performance and comparison:
 
-![Model Results](images/Model_Performance.jpg)
+![Model Results](images/results.png)
 
 ---
 
